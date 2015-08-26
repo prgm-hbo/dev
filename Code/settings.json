@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.lineNumbers": false,
+	"editor.fontSize": 13,
+	"editor.renderWhitespace": true
+}
