@@ -2,5 +2,7 @@
 {
 	"editor.lineNumbers": false,
 	"editor.fontSize": 13,
-	"editor.renderWhitespace": true
+	"editor.renderWhitespace": true,
+	"editor.tabSize": "2",  // auto
+	"editor.insertSpaces": "auto"  // auto
 }
